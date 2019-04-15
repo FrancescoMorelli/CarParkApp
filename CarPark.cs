@@ -6,7 +6,7 @@ namespace CarParkApp
 {
     public class CarPark
     {
-        private static Customer[] cars = new Customer[2];
+        private static Customer[] cars = new Customer[11];
 
         public static void InsertCar(Customer customerCar)
         {
